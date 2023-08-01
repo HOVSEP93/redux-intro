@@ -5,6 +5,10 @@
 - Redux classic
 - Redux toolkit
 
+## Demo
+
+You can check out the live demo [here](https://redux-intro-nine.vercel.app/)
+
 ## Screenshots
 
 ![App Screenshot](./public/screen/1.jpg)
